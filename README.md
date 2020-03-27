@@ -11,7 +11,7 @@
 
 Для реализации желательно использовать Laravel
 
-Пожалуйста(если вы хотите проверить kod):
+Пожалуйста(если вы хотите проверить):
 1. git clone https://github.com/akhmadcoder/ssilki_testtask.git 
 2. composer install
 3. composer update
