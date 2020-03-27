@@ -11,3 +11,9 @@
 
 Для реализации желательно использовать Laravel
 
+Пожалуйста:
+1. git clone https://github.com/akhmadcoder/ssilki_testtask.git 
+2. composer install
+3. composer update
+4. создать базу данных
+5. сделать миграцию (php artisan migrate)
